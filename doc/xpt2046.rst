@@ -1,0 +1,7 @@
+xpt2046 -- API of touch screen controller xpt2046
+===================================================
+
+.. c:autodoc:: ../inc/xpt2046.h ../src/xpt2046.c
+   :clang: -I/lib/clang/10.0.0/include,-I../inc,-I../lib/libopencm3,-std=gnu17,-DHAWKMOTH
+
+

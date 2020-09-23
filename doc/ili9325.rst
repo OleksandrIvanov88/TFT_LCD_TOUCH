@@ -1,0 +1,8 @@
+ili9325 -- API of LCD TFT controller ili9325
+==============================================
+
+.. c:autodoc:: ../inc/ili9325.h ../src/ili9325.c
+   :clang: -I/lib/clang/10.0.0/include,-I../inc,-std=gnu17,-DHAWKMOTH
+
+
+
